@@ -1,0 +1,8 @@
+version: 0
+LoadOnStart: true
+UseOwnGamemode: false
+Gamemode: 2
+fly: false
+respawnworld: '@codebloxmc.tk'
+protected: false
+note: ''
