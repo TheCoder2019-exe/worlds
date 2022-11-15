@@ -1,0 +1,8 @@
+version: 0
+LoadOnStart: true
+UseOwnGamemode: false
+Gamemode: 1
+fly: false
+respawnworld: CTF-3-00
+protected: false
+note: ''

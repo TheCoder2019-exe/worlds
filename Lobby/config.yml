@@ -1,0 +1,10 @@
+version: 0
+LoadOnStart: true
+UseOwnGamemode: false
+Gamemode: 1
+movementcheck: true
+fly: false
+respawndefaultworld: false
+protected: false
+note: ''
+respawnworld: Lobby
